@@ -10,7 +10,7 @@
         <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
         <div class="container">
           <h2>Welcome to Medicio</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>not make new iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           <a href="#about" class="btn-get-started">Read More</a>
         </div>
       </div><!-- End Carousel Item -->
