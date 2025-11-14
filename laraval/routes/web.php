@@ -77,8 +77,7 @@ Route::get('/updateprodect', function () {
     return view('admin.updateprodect');
 });
 
-// shop
-// Route::get('/shop',[Contact::class,'getprodects']);
+Route::get('/shop',[Contact::class,'getprodects']);
  
 // submitprodect
 Route::post('/submitprodect',[admincontroller::class,'submitprodect']);

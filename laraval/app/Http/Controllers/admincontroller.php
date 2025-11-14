@@ -84,4 +84,5 @@ class admincontroller extends Controller
      $records = \App\Models\Contact::where('status','visible')->get();
      return view('hospital.request',compact('records'));
  }
+
 }
