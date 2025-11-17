@@ -9,8 +9,8 @@
       <div class="carousel-item active">
         <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
         <div class="container">
-          <h2>Welcome to Medicio</h2>
-          <p>not make new iscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <h2>Welcome to VMS</h2>
+          <p>Providing professional, compassionate medical care with state-of-the-art facilities and a patient-first approach.</p>
           <a href="#about" class="btn-get-started">Read More</a>
         </div>
       </div><!-- End Carousel Item -->
@@ -18,8 +18,8 @@
       <div class="carousel-item">
         <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
         <div class="container">
-          <h2>At vero eos et accusamus</h2>
-          <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
+              <h2>Your Health, Our Priority</h2>
+              <p>We are dedicated to improving lives through expert healthcare, modern technology, and a team that truly cares about your well-being.</p>
           <a href="#about" class="btn-get-started">Read More</a>
         </div>
       </div><!-- End Carousel Item -->
@@ -27,8 +27,8 @@
       <div class="carousel-item">
         <img src="assets/img/hero-carousel/hero-carousel-3.jpg" alt="">
         <div class="container">
-          <h2>Temporibus autem quibusdam</h2>
-          <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
+              <h2>Advanced Medicine, Compassionate Hearts</h2>
+              <p>Combining modern medical expertise with genuine empathy to deliver world-class healthcare for you and your family.</p>
           <a href="#about" class="btn-get-started">Read More</a>
         </div>
       </div><!-- End Carousel Item -->
@@ -57,32 +57,32 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item position-relative">
             <div class="icon"><i class="fas fa-heartbeat icon"></i></div>
-            <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            <h4><a href="" class="stretched-link">Emergency</a></h4>
+            <p>We care available 24/7 with experienced physicians and rapid response teams.</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
           <div class="service-item position-relative">
             <div class="icon"><i class="fas fa-pills icon"></i></div>
-            <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+            <h4><a href="" class="stretched-link">Personalized</a></h4>
+            <p>treatment plans created by our multidisciplinary medical staff.</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
           <div class="service-item position-relative">
             <div class="icon"><i class="fas fa-thermometer icon"></i></div>
-            <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+            <h4><a href="" class="stretched-link">Research</a></h4>
+              <p>Advanced diagnostic and laboratory services with fast, accurate results.</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
           <div class="service-item position-relative">
             <div class="icon"><i class="fas fa-dna icon"></i></div>
-            <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <h4><a href="" class="stretched-link">Care </a></h4>
+            <p>Comprehensive postoperative follow-up care to support your recovery.</p>
           </div>
         </div><!-- End Service Item -->
 
@@ -100,7 +100,6 @@
         <div class="col-xl-10">
           <div class="text-center">
             <h3>In an emergency? Need help now?</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             <a class="cta-btn" href="#appointment">Make an Appointment</a>
           </div>
         </div>
@@ -115,7 +114,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>About Us<br></h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>Our medical center combines expert physicians, modern technology, and compassionate care to provide the best outcomes for our patients. We are committed to safety, innovation, and respect for every individual we treat.</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -126,19 +125,17 @@
           <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
         </div>
         <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
-          <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+          <h3>Dedicated to Quality Healthcare.</h3>
           <p class="fst-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
+            We focus on delivering high-quality medical services tailored to the unique needs of each patient. With experienced specialists and advanced facilities, we strive to ensure your comfort, confidence, and complete recovery
           </p>
           <ul>
-            <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-            <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-            <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+            <li><i class="bi bi-check2-all"></i> <span>We provide personalized treatment plans for every patient’s condition.</span></li>
+            <li><i class="bi bi-check2-all"></i> <span>We use modern diagnostic tools for accurate and timely results.</span></li>
+            <li><i class="bi bi-check2-all"></i> <span>We focus on continuous improvement through training and research.</span></li>
           </ul>
           <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+            Our team believes that great healthcare starts with trust and communication. From your first consultation to recovery, we are here to guide you every step of the way, ensuring you receive the care and attention you deserve.
           </p>
         </div>
       </div>
@@ -209,38 +206,40 @@
         <div class="features-image col-lg-6" data-aos="fade-up" data-aos-delay="100"><img src="assets/img/features.jpg" alt=""></div>
 
         <div class="col-lg-5 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
-          <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-          <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
+          <h3>Laboratory / research</h3>
+          <p>Our laboratory uses modern equipment and strict quality controls to deliver reliable diagnostic testing for accurate treatment planning.</p>
 
           <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
             <i class="fa-solid fa-hand-holding-medical flex-shrink-0"></i>
             <div>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4><a href="" class="stretched-link">Advanced Laboratory Testing</a></h4>
+              <p>We use modern equipment and strict quality controls to provide fast and accurate test results for better diagnosis and treatment.</p>
             </div>
           </div><!-- End Icon Box -->
 
           <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
             <i class="fa-solid fa-suitcase-medical flex-shrink-0"></i>
             <div>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4><a href="" class="stretched-link">Emergency and Critical Care</a></h4>
+              <p>Our emergency department is staffed 24/7 with skilled professionals ready to respond quickly to urgent medical situations.</p>
             </div>
           </div><!-- End Icon Box -->
 
           <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="500">
             <i class="fa-solid fa-staff-snake flex-shrink-0"></i>
             <div>
-              <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-              <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+              <h4><a href="" class="stretched-link">Pharmacy and Medication Support</a></h4>
+              <p>Our in-house pharmacy ensures that prescribed medicines are available promptly, with guidance from qualified pharmacists.</p>
+
             </div>
           </div><!-- End Icon Box -->
 
           <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="600">
             <i class="fa-solid fa-lungs flex-shrink-0"></i>
             <div>
-              <h4><a href="" class="stretched-link">Tride clov</a></h4>
-              <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
+              <h4><a href="" class="stretched-link">Respiratory and Lung Health</a></h4>
+              <p>We offer advanced respiratory care, including lung function testing, therapy, and ongoing management for chronic conditions.</p>
+
             </div>
           </div><!-- End Icon Box -->
 
@@ -257,7 +256,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Services</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>General medicine and preventive health checks to keep you well and catch issues early.</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -270,9 +269,10 @@
               <i class="fas fa-heartbeat"></i>
             </div>
             <a href="#" class="stretched-link">
-              <h3>Nesciunt Mete</h3>
+              <h3>Emergency Services  </h3>
             </a>
-            <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+            <p>We offer 24/7 emergency support with trained doctors and nurses who respond quickly to critical medical situations with modern facilities and equipment.</p>
+
           </div>
         </div><!-- End Service Item -->
 
@@ -282,9 +282,10 @@
               <i class="fas fa-pills"></i>
             </div>
             <a href="#" class="stretched-link">
-              <h3>Eosle Commodi</h3>
+              <h3>Cardiology</h3>
             </a>
-            <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+            <p>Our cardiology department specializes in the diagnosis and treatment of heart conditions using advanced imaging, testing, and interventional procedures.</p>
+
           </div>
         </div><!-- End Service Item -->
 
@@ -294,9 +295,10 @@
               <i class="fas fa-hospital-user"></i>
             </div>
             <a href="#" class="stretched-link">
-              <h3>Ledo Markt</h3>
+              <h3>Orthopedics</h3>
             </a>
-            <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+            <p>We provide expert care for bone, joint, and muscle conditions, offering both surgical and non-surgical treatments for faster recovery and mobility.</p>
+
           </div>
         </div><!-- End Service Item -->
 
@@ -306,9 +308,10 @@
               <i class="fas fa-dna"></i>
             </div>
             <a href="#" class="stretched-link">
-              <h3>Asperiores Commodit</h3>
+              <h3>Pediatrics</h3>
             </a>
-            <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+              <p>Our pediatric specialists focus on the growth, development, and health of infants, children, and adolescents in a friendly and caring environment.</p>
+
           </div>
         </div><!-- End Service Item -->
 
@@ -318,9 +321,10 @@
               <i class="fas fa-wheelchair"></i>
             </div>
             <a href="#" class="stretched-link">
-              <h3>Velit Doloremque</h3>
+              <h3>Dental Care</h3>
             </a>
-            <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+            <p>We offer preventive and restorative dental treatments, including cleanings, fillings, and cosmetic procedures, to help you maintain a healthy smile.</p>
+
           </div>
         </div><!-- End Service Item -->
 
@@ -330,9 +334,10 @@
               <i class="fas fa-notes-medical"></i>
             </div>
             <a href="#" class="stretched-link">
-              <h3>Dolori Architecto</h3>
+              <h3>General Medical Care</h3>
             </a>
-            <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+            <p>Our general practitioners provide comprehensive primary care, routine checkups, and early detection of health conditions to keep you and your family healthy.</p>
+
           </div>
         </div><!-- End Service Item -->
 
@@ -343,11 +348,9 @@
   </section><!-- /Services Section -->
   <section id="appointment" class="appointment section light-background">
 
-    <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>MAKE AN APPOINTMENT</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-    </div><!-- End Section Title -->
+      <p>To make an appointment, select a doctor, pick a suitable date and time, and provide your contact details. You will receive a confirmation email or phone call.</p>
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -408,7 +411,8 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Departments</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>We bring together leading specialists across a variety of medical fields to provide expert diagnosis and treatment. Each department is equipped with modern technology and a team dedicated to delivering personalized, patient-focused care.</p>
+
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -439,8 +443,9 @@
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Cardiology</h3>
-                  <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                  <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                  <!-- <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p> -->
+                  <p>Our cardiology department specializes in the prevention, diagnosis, and treatment of heart diseases. Our experienced cardiologists use advanced imaging and diagnostic tools to manage conditions such as hypertension, arrhythmia, and coronary artery disease with personalized care.</p>
+
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-1.jpg" alt="" class="img-fluid">
@@ -451,8 +456,9 @@
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Neurology</h3>
-                  <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                  <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
+                  <!-- <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p> -->
+                  <p>Our neurology team provides expert evaluation and treatment for disorders of the brain, spinal cord, and nervous system. We focus on conditions like migraines, epilepsy, stroke, and movement disorders, ensuring precise diagnosis and compassionate support for every patient.</p>
+
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
@@ -463,8 +469,9 @@
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Hepatology</h3>
-                  <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
-                  <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
+                  <!-- <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p> -->
+                  <p>The hepatology unit offers comprehensive care for liver, gallbladder, and pancreas diseases. Our specialists provide early detection, treatment, and long-term management of conditions such as hepatitis, fatty liver disease, and cirrhosis using the latest medical advancements.</p>
+
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
@@ -475,8 +482,9 @@
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Pediatrics</h3>
-                  <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p>
-                  <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
+                  <!-- <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p> -->
+                  <p>Our pediatric department delivers complete healthcare for children of all ages—from newborns to adolescents. We focus on preventive care, immunizations, nutrition, and developmental milestones to ensure every child grows strong and healthy.</p>
+
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
@@ -487,8 +495,9 @@
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Ophthalmologists</h3>
-                  <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
-                  <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
+                  <!-- <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p> -->
+                  <p>Our ophthalmologists offer advanced eye care services, including vision exams, cataract surgery, and treatment for glaucoma and other eye disorders. We are committed to preserving and improving your vision with precision and care.</p>
+
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
@@ -507,10 +516,9 @@
   <section id="testimonials" class="testimonials section">
 
     <!-- Section Title -->
-    <div class="container section-title" data-aos="fade-up">
+<div class="container section-title" data-aos="fade-up">
       <h2>Testimonials</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-    </div><!-- End Section Title -->
+      <p>We’re proud to have earned the trust of our patients through compassionate care, professionalism, and outstanding results. Here are a few words from those we’ve helped on their journey to better health.</p>
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -546,7 +554,7 @@
             <div class="testimonial-item">
               <p>
                 <i class=" bi bi-quote quote-icon-left"></i>
-                <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                 <span>The doctors and nurses treated me with kindness and respect from the moment I arrived. They listened carefully to my concerns and made me feel completely at ease during my treatment. I’m thankful for their professionalism and warmth.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
@@ -559,7 +567,7 @@
             <div class="testimonial-item">
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
-                <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+                <span>My experience was excellent from start to finish. The hospital staff were efficient, friendly, and always available to answer my questions. The treatment plan was clear, and my recovery went smoothly thanks to their careful guidance.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -572,7 +580,7 @@
             <div class="testimonial-item">
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
-                <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
+                <span>I was nervous about my heart condition, but the cardiology team was amazing. They explained every procedure in detail and took great care throughout my stay. I felt confident knowing I was in the best hands possible.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -585,7 +593,7 @@
             <div class="testimonial-item">
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
-                <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
+                <span>The hospital environment is spotless and comfortable. The staff follow excellent hygiene standards, and everything is well-organized. It really made a difference in helping me recover peacefully and stress-free.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
@@ -598,7 +606,7 @@
             <div class="testimonial-item">
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
-                <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
+                <span>My daughter received outstanding care from the pediatric team. They were gentle, patient, and made her feel relaxed during her check-up. It’s reassuring to know there’s a place where children are cared for with such dedication.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
@@ -621,7 +629,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Doctors</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+    <p> General Practitioner. Comprehensive primary care for adults and families.</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -712,7 +720,10 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Gallery</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>Operating theatre with up-to-date surgical equipment.</p>
+<p>Emergency department team in action during a simulated drill.</p>
+<p>Patient consultation room designed for privacy and comfort.</p>
+<p>Our lab team preparing diagnostic tests for rapid results.</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -771,7 +782,8 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Pricing</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>Choose the plan that best fits your medical care needs. We offer flexible options designed to provide affordable, high-quality healthcare for everyone.</p>
+
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -783,11 +795,11 @@
             <h3>Free</h3>
             <h4><sup>$</sup>0<span> / month</span></h4>
             <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li class="na">Pharetra massa</li>
-              <li class="na">Massa ultricies mi</li>
+            <li>Basic health consultations</li>
+          <li>Access to general health tips and resources</li>
+          <li>Free appointment scheduling online</li>
+          <li class="na">No specialist consultations</li>
+          <li class="na">No lab or diagnostic tests included</li>
             </ul>
             <div class="btn-wrap">
               <a href="#" class="btn-buy">Buy Now</a>
@@ -797,14 +809,14 @@
 
         <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="200">
           <div class="pricing-item featured">
-            <h3>Business</h3>
-            <h4><sup>$</sup>19<span> / month</span></h4>
+            <h3>Basic</h3>
+            <h4><sup>$</sup>49<span> / month</span></h4>
             <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li class="na">Massa ultricies mi</li>
+            <li>General checkups and routine consultations</li>
+          <li>Access to outpatient services</li>
+          <li>Priority appointment scheduling</li>
+          <li>Basic diagnostic tests included</li>
+          <li class="na">No advanced imaging or specialist care</li>
             </ul>
             <div class="btn-wrap">
               <a href="#" class="btn-buy">Buy Now</a>
@@ -814,14 +826,14 @@
 
         <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="300">
           <div class="pricing-item">
-            <h3>Developer</h3>
-            <h4><sup>$</sup>29<span> / month</span></h4>
+            <h3>Standard</h3>
+            <h4><sup>$</sup>99<span> / month</span></h4>
             <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li>Massa ultricies mi</li>
+              <li>Comprehensive medical consultations</li>
+          <li>Specialist referrals and follow-up care</li>
+          <li>Routine lab and imaging tests</li>
+          <li>24/7 online support and advice</li>
+          <li class="na">Excludes major surgeries</li>
             </ul>
             <div class="btn-wrap">
               <a href="#" class="btn-buy">Buy Now</a>
@@ -831,15 +843,15 @@
 
         <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="400">
           <div class="pricing-item">
-            <span class="advanced">Advanced</span>
+            <span class="advanced">Premium</span>
             <h3>Ultimate</h3>
-            <h4><sup>$</sup>49<span> / month</span></h4>
+            <h4><sup>$</sup>199<span> / month</span></h4>
             <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li>Massa ultricies mi</li>
+          <li>Full access to all specialist consultations</li>
+          <li>Comprehensive health screenings and imaging</li>
+          <li>Personalized treatment and wellness plans</li>
+          <li>Priority service and private room options</li>
+          <li>Free annual executive health checkup</li>
             </ul>
             <div class="btn-wrap">
               <a href="#" class="btn-buy">Buy Now</a>
@@ -859,7 +871,8 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Frequently Asked Questions</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>Find quick answers to some of the most common questions about our hospital, services, and patient care. If you need more information, please don’t hesitate to contact us.</p>
+
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -871,49 +884,49 @@
           <div class="faq-container">
 
             <div class="faq-item">
-              <h3>Non consectetur a erat nam at lectus urna duis?</h3>
+              <h3>Can I make an appointment online?</h3>
               <div class="faq-content">
-                <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
+                <p>Yes, we accept most major health insurance providers. Please bring your insurance card during your visit, and our billing team will help verify your coverage before your appointment or treatment.</p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div><!-- End Faq item-->
 
             <div class="faq-item">
-              <h3>Feugiat scelerisque varius morbi enim nunc faucibus?</h3>
+              <h3>Can I make an appointment online?</h3>
               <div class="faq-content">
-                <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                <p>Absolutely. You can easily schedule an appointment through our online booking form. Simply select your doctor, preferred date, and time, and we’ll confirm your appointment via email or phone.</p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div><!-- End Faq item-->
 
             <div class="faq-item">
-              <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
+              <h3>What should I bring to my first visit?</h3>
               <div class="faq-content">
-                <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
+                <p>Please bring a valid ID, your insurance information, a list of current medications, and any previous medical records or test results. This helps our doctors provide you with accurate and effective care.</p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div><!-- End Faq item-->
 
             <div class="faq-item">
-              <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
+              <h3>Do you provide emergency services?</h3>
               <div class="faq-content">
-                <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                <p>Yes, our emergency department is open 24 hours a day, seven days a week. Our experienced medical staff and advanced facilities are ready to handle all kinds of urgent and critical cases.</p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div><!-- End Faq item-->
 
             <div class="faq-item">
-              <h3>Tempus quam pellentesque nec nam aliquam sem et tortor?</h3>
+              <h3>Can I visit a specialist without a referral?</h3>
               <div class="faq-content">
-                <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
+                <p>In most cases, you can schedule a consultation directly with one of our specialists. However, some insurance plans may require a referral from your primary care doctor. Our staff can assist you with the process.</p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div><!-- End Faq item-->
 
             <div class="faq-item">
-              <h3>Perspiciatis quod quo quos nulla quo illum ullam?</h3>
+              <h3>How can I request a copy of my medical records?</h3>
               <div class="faq-content">
-                <p>Enim ea facilis quaerat voluptas quidem et dolorem. Quis et consequatur non sed in suscipit sequi. Distinctio ipsam dolore et.</p>
+                <p>You can request your medical records by submitting a form at our reception desk or by emailing medicalrecords@yourhospital.com. Records are processed securely, and you will be notified once they’re ready for collection.</p>
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div><!-- End Faq item-->
@@ -934,7 +947,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Contact</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>We’re here to help you with any questions about our services, appointments, or facilities. Please reach out to us — our support team will respond as soon as possible.</p>
     </div><!-- End Section Title -->
 
     <div class="mb-5" data-aos="fade-up" data-aos-delay="200">

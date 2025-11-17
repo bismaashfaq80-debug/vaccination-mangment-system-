@@ -152,40 +152,46 @@
         </div>
 
         <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Hic solutasetp</h4>
-          <ul>
-            <li><a href="#">Molestiae accusamus iure</a></li>
-            <li><a href="#">Excepturi dignissimos</a></li>
-            <li><a href="#">Suscipit distinctio</a></li>
-            <li><a href="#">Dilecta</a></li>
-            <li><a href="#">Sit quas consectetur</a></li>
-          </ul>
-        </div>
+  <h4>Helpful Links</h4>
+  <ul>
+    <li><a href="#">Book an Appointment</a></li>
+    <li><a href="#">Find a Doctor</a></li>
+    <li><a href="#">Patient Guide</a></li>
+    <li><a href="#">Health Tips</a></li>
+    <li><a href="#">Insurance Information</a></li>
+  </ul>
+</div>
 
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Nobis illum</h4>
-          <ul>
-            <li><a href="#">Ipsam</a></li>
-            <li><a href="#">Laudantium dolorum</a></li>
-            <li><a href="#">Dinera</a></li>
-            <li><a href="#">Trodelas</a></li>
-            <li><a href="#">Flexo</a></li>
-          </ul>
-        </div>
+<!-- Our Services -->
+<div class="col-lg-2 col-md-3 footer-links">
+  <h4>Our Services</h4>
+  <ul>
+    <li><a href="#">Emergency Care</a></li>
+    <li><a href="#">Cardiology</a></li>
+    <li><a href="#">Pediatrics</a></li>
+    <li><a href="#">Orthopedics</a></li>
+    <li><a href="#">Dental Care</a></li>
+  </ul>
+</div>
 
       </div>
     </div>
 
-    <div class="container copyright text-center mt-4">
+    <!-- <div class="container copyright text-center mt-4">
       <p>© <span>Copyright</span> <strong class="px-1 sitename">Medicio</strong> <span>All Rights Reserved</span></p>
-      <div class="credits">
+      <div class="credits"> -->
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you've purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href=“https://themewagon.com>ThemeWagon
+        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href=“https://themewagon.com>ThemeWagon
       </div>
-    </div>
+    </div> -->
+
+    <div class="container footer-bottom clearfix">
+    <p>&copy; 2025 <strong><span>vaccination Management system</span></strong>. All Rights Reserved.</p>
+    <p>Designed with care to promote better health and well-being for our community.</p>
+  </div>
 
   </footer>
 
