@@ -22,4 +22,5 @@ class appiontment extends Controller
     $table->save();
     return redirect()->back();
    }
+
 }

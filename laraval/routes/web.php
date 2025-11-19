@@ -5,6 +5,7 @@ use App\Http\Controllers\appiontment;
 use App\Http\Controllers\AppointmentContrller;
 use App\Http\Controllers\contact;
 use App\Http\Middleware\AdminMiddleware;
+use App\Http\Middleware\hospital;
 use App\Models\Product;
 use App\Models\wishlist;
 use Illuminate\Support\Facades\Auth;
@@ -32,8 +33,8 @@ Route::get('/error', function () {
     return view('error');
 });
 
-Route::get('/docs', function () {
-        return view('admin.docs');
+Route::get('/adminh', function () {
+        return view('admin.adminh');
     });
 
 // contact controller
@@ -45,13 +46,13 @@ Route::post('/appointment',[appiontment::class,'appointmentd']);
 
 // Middleware
 Route::middleware([AdminMiddleware::class])->group(function(){
-    Route::get('/adminp', function () {
-        return view('admin.index');
+    Route::get('/adminh', function () {
+        return view('admin.adminh');
 
     });
 
 // fetch
-Route::get('/docs',[admincontroller::class,'getcontacts']);
+Route::get('/adminh',[admincontroller::class,'getcontacts']);
 
 // delete
 Route::post('/delete/{id}',[admincontroller::class,'deletecontact']);
@@ -64,7 +65,7 @@ Route::post('/updaterecord', [admincontroller::class, 'updatecontactdata']);
 
 
 // trash
-Route::get('/docs/trash',[admincontroller::class,'getcontactqueries']);
+Route::get('/adminh/trash',[admincontroller::class,'getcontactqueries']);
 
 Route::post('/trash/{userid}',[admincontroller::class,'trashrecord']);
 
@@ -72,22 +73,20 @@ Route::get('/trashitem',[admincontroller::class,'trasheditem']);
 // restore
 Route::post('/restore/{id}',[admincontroller::class,'restoreRecord']);
 
-    // prodects
-Route::get('/updateprodect', function () {
-    return view('admin.updateprodect');
+    // hospitals
+Route::get('/updatehospital', function () {
+    return view('admin.hospital');
 });
 
-Route::get('/shop',[Contact::class,'getprodects']);
+Route::get('/',[Contact::class,'index']);
  
-// submitprodect
-Route::post('/submitprodect',[admincontroller::class,'submitprodect']);
- 
-// cart item
-Route::get('/cart',[Contact::class,'getcartdata']);
-// add to cart
-Route::post('/addtocart/{id}',[contact::class,'addtocart']);
+// submithospital
+Route::post('/hospitalupdate',[admincontroller::class,'submithospital']);
 
-
+ Route::get('/hospitalupdate', function () {
+    return view('admin.hospitalupdate');
+});
+// admin middlewere
 Route::middleware([
     'auth:sanctum',
     config('jetstream.auth_session'),
@@ -105,7 +104,7 @@ return redirect('/');
     })->name('dashboard');
 
 });
-
+//  hospital to appointment
 Route::middleware([AdminMiddleware::class])->group(function(){
     Route::get('/host', function () {
         return view('hospital.index');
@@ -113,3 +112,4 @@ Route::middleware([AdminMiddleware::class])->group(function(){
     });
  });
   Route::get('/request', [admincontroller::class, 'request']);
+

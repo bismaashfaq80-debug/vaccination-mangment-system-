@@ -6,11 +6,11 @@ use Illuminate\Database\Eloquent\Model;
 
 class wishlist extends Model
 {
-    protected $fillable = ['user_id', 'product_id'];
+    protected $fillable = ['user_id', 'id_id'];
 
-    public function product()
+    public function hospital()
     {
-        return $this->belongsTo(prodect::class, 'product_id');
+        return $this->belongsTo(Hospital::class, 'hospital_id');
     }
 
     public function user()

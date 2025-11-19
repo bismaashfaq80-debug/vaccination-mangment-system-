@@ -10,7 +10,7 @@
         <br>
               <div class="container">
             <h3 style="text-align: center;">
-              FETCH RECORDS FROM CONTACT FORM
+              HOSPITAL RECORDS
             </h3>
             <hr>
             <table class="table table-bordered">

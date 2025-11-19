@@ -59,18 +59,18 @@
               <iconify-icon icon="solar:menu-dots-linear" class="nav-small-cap-icon fs-4"></iconify-icon>
               <span class="hide-menu">Home</span>
             </li>
-            <li class="sidebar-item">
+            <!-- <li class="sidebar-item">
               <a class="sidebar-link" href="/adminp" aria-expanded="false">
                 <i class="ti ti-atom"></i>
                 <span class="hide-menu">Dashboard</span>
               </a>
-            </li>
+            </li> -->
             <!-- ---------------------------------- -->
             <!-- Dashboard -->
             <!-- ---------------------------------- -->
             <li class="sidebar-item">
               <a class="sidebar-link justify-content-between"  
-                href="/docs" aria-expanded="false">
+                href="/adminh" aria-expanded="false">
                 <div class="d-flex align-items-center gap-3">
                   <span class="d-flex">
                     <i class="ti ti-aperture"></i>
@@ -93,17 +93,17 @@
               </a>
             </li>
             <li class="sidebar-item">
-              <a class="sidebar-link justify-content-between"  
-                href="/updateprodect" aria-expanded="false">
+              <a class="sidebar-link justify-content-between"
+                href="/hospitalupdate" aria-expanded="false">
                 <div class="d-flex align-items-center gap-3">
                   <span class="d-flex">
                     <i class="ti ti-user"></i>
                   </span>
-                  <span class="hide-menu">upload prodect </span>
+                  <span class="hide-menu">hospital file </span>
                 </div>
               </a>
             </li>
-            <li class="sidebar-item">
+            <!-- <li class="sidebar-item">
               <a class="sidebar-link justify-content-between has-arrow" href="javascript:void(0)" aria-expanded="false">
                 <div class="d-flex align-items-center gap-3">
                   <span class="d-flex">
@@ -111,9 +111,9 @@
                   </span>
                   <span class="hide-menu">Front Pages</span>
                 </div>
-                
+                 -->
               </a>
-              <ul aria-expanded="false" class="collapse first-level">
+              <!-- <ul aria-expanded="false" class="collapse first-level">
                 <li class="sidebar-item">
                   <a class="sidebar-link justify-content-between"  
                     href="#">
@@ -124,8 +124,8 @@
                       <span class="hide-menu">Homepage</span>
                     </div>
                     
-                  </a>
-                </li>
+                  </a> -->
+                <!-- </li>
                 <li class="sidebar-item">
                   <a class="sidebar-link justify-content-between"  
                     href="#">
@@ -170,8 +170,8 @@
                         <i class="ti ti-circle"></i>
                       </div>
                       <span class="hide-menu">Contact Us</span>
-                    </div>
-                    
+                    </div> -->
+<!--                     
                   </a>
                 </li>
                 <li class="sidebar-item">
@@ -1875,7 +1875,7 @@
             </ul>
           </div>
         </nav>
-      </header>
+      </header> -->
       <!--  Header End -->
       @yield('admincontent')
       <div class="py-6 px-6 text-center">

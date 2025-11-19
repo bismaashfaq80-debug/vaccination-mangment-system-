@@ -19,34 +19,18 @@ class Contact extends Controller
     return redirect()->back();
    }
 
-   public function getprodects(){
-        $data=\App\Models\product::all();
-        return view('shop',compact('data'));
+   public function index(){
+        $data=\App\Models\Hospital::get();
+        return view('index',compact('data'));
        }
 
-     // cart data   
-     public function getcartdata(){
-        $data=\App\Models\wishlist::all();
-        return view('/cart',compact('data'));
-       }
-         // add to cart
-         public function addtocart($id){
-        $productid=$id;
-        $userid=Auth::user()->$id;
-        $table = new wishlist();
-        $table->$productid =$productid;
-        $table->$userid=$userid;
-        $table->save();
-        return redirect()->back();
+    
 
-         }
-
-// submitprodect
-    public function submitprodect(Request $request){
-     $table=new \App\Models\prodect;
-     $table->name=$request->name;
-     $table->price=$request->price;
-     $table->description=$request->description;
+// submithospital
+    public function submithospital(Request $request){
+     $table=new \App\Models\Hospital;
+     $table->hospitalname=$request->hospitalname;
+     $table->location=$request->location;
      $table->image=$request->image;
      $table->save();
      return redirect()->back();

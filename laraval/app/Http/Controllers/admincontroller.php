@@ -10,7 +10,7 @@ class admincontroller extends Controller
     //
     public function getcontacts(){
         $records = \App\Models\Contact::where('status','visible')->get();
-        return view('admin.docs',compact('records'));
+        return view('admin.adminh',compact('records'));
     }
     //  delete fetch
     public function deletecontact(Request $request){
@@ -65,20 +65,20 @@ class admincontroller extends Controller
         return redirect()->back();
     }
  
-// submit prodect
- public function submitprodect(Request $request){
-    $table=new \App\Models\product();
-    $table->productname=$request->productname;
-    $table->productprice=$request->productprice;
-    $table->productquantity=$request->productstock;
-    $file = $request->file('productfile');
-    $filename = $file->getClientOriginalName();
-    $file->move('upload',$filename);
-    $table->productfile=$filename;
-    $table->save();
-    return redirect()->back();
+// submit hospital
 
- }
+public function submithospital(Request $req)
+    {
+        $table = new \App\Models\hospital();
+        $table->hospitalname=$req->hospitalname;
+        $table->location=$req->location;
+        $file = $req->file('hospitalfile');
+        $filename = $file->getClientOriginalName();
+        $file->move(public_path('update'), $filename);
+        $table->hospitalfile = $filename;
+        $table->save();
+        return redirect()->back();
+    }
 
  public function request(){
      $records = \App\Models\Contact::where('status','visible')->get();

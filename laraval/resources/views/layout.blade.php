@@ -54,9 +54,9 @@
 
     <div class="branding d-flex align-items-center">
 
-      <div class="container position-relative d-flex align-items-center justify-content-end">
-        <a href="index.blade.php" class="logo d-flex align-items-center me-auto" >
-          <img src="assets/img/vms.png"  alt="">
+      <div class="container position-relative d-flex align-items-center justify-content-end ">
+        <a href="index.blade.php" class="logo d-flex align-items-center me-auto " >
+          <img src="/assets/img/logo p.png" class="img-fluid"   alt="">
           <!-- Uncomment the line below if you also wish to use a text logo -->
           <!-- <h1 class="sitename">Medicio</h1>  -->
         </a>
@@ -66,8 +66,7 @@
             <li><a href="#hero" class="active">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#services">Services</a></li>
-            <li><a href="#departments">Departments</a></li>
-            <li><a href="#doctors">Doctors</a></li>
+            <li><a href="#hospitals">Doctors</a></li>
             <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a> -->
               <!-- <ul>
                 <li><a href="#">Dropdown 1</a></li>
@@ -94,10 +93,16 @@
         <form action="/logout" method="POST">
           @csrf
           <a class="cta-btn" href="index.php#appointment">Make an Appointment</a>
-            
+ 
 								<button type="submit" class="cta-btn">Logout</button>
 							</form>
+              @else
+              <a class="cta-btn" href="/register">register</a>
+              <br>
+              <a class="cta-btn" href="/login">login</a>
               @endif
+              
+
       </div>
     </div>
 

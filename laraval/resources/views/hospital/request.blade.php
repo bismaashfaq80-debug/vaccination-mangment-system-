@@ -10,7 +10,7 @@
         <br>
               <div class="container">
             <h3 style="text-align: center;">
-              FETCH RECORDS FROM CONTACT FORM
+              FETCH RECORDS FROM appointment FORM
             </h3>
             <hr>
             <table class="table table-bordered">
