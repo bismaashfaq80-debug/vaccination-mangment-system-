@@ -53,10 +53,12 @@
     </div><!-- End Top Bar -->
 
     <div class="branding d-flex align-items-center">
+  
+     <a class="navbar-brand" href="index.blade.php align-items-center  d-flex " >
+          <img src="/assets/img/logo p.png"  width="95" height="auto" alt="Logo" >
 
       <div class="container position-relative d-flex align-items-center justify-content-end ">
-        <a href="index.blade.php" class="logo d-flex align-items-center me-auto " >
-          <img src="/assets/img/logo p.png" class="img-fluid"   alt="">
+      
           <!-- Uncomment the line below if you also wish to use a text logo -->
           <!-- <h1 class="sitename">Medicio</h1>  -->
         </a>
@@ -66,7 +68,7 @@
             <li><a href="#hero" class="active">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#services">Services</a></li>
-            <li><a href="#hospitals">Doctors</a></li>
+            <li><a href="#Departments">Departments</a></li>
             <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a> -->
               <!-- <ul>
                 <li><a href="#">Dropdown 1</a></li>
@@ -92,7 +94,7 @@
         
         <form action="/logout" method="POST">
           @csrf
-          <a class="cta-btn" href="index.php#appointment">Make an Appointment</a>
+          <a class="cta-btn" href="index#appointment">Make an Appointment</a>
  
 								<button type="submit" class="cta-btn">Logout</button>
 							</form>
@@ -118,7 +120,7 @@
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">Medicio</span>
+            <span class="sitename">VMS</span>
           </a>
           <div class="footer-contact pt-3">
             <p>A108 Adam Street</p>

@@ -5,18 +5,13 @@ use App\Http\Controllers\appiontment;
 use App\Http\Controllers\AppointmentContrller;
 use App\Http\Controllers\contact;
 use App\Http\Middleware\AdminMiddleware;
-use App\Http\Middleware\hospital;
-use App\Models\Product;
-use App\Models\wishlist;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('index');
-});
-Route::get('/index', function () {
-    return view('index');
-});
+// Route::get('/', function () {
+//     return view('index');
+// });
+Route::get('/', [admincontroller::class,('gethospitals')]);
 Route::get('/contact', function () {
     return view('contact' );
 });
@@ -36,11 +31,14 @@ Route::get('/error', function () {
 Route::get('/adminh', function () {
         return view('admin.adminh');
     });
+Route::get('/appiontmenthospital', function () {
+        return view('admin.appiontmenthospital');
+    });
 
 // contact controller
 Route::post('contact',[Contact::class,'contactdatas']);
 
-Route::post('/appointment',[appiontment::class,'appointmentd']);
+Route::post('appointment',[appiontment::class,'appointmentd']);
 
 
 
@@ -72,13 +70,16 @@ Route::post('/trash/{userid}',[admincontroller::class,'trashrecord']);
 Route::get('/trashitem',[admincontroller::class,'trasheditem']);
 // restore
 Route::post('/restore/{id}',[admincontroller::class,'restoreRecord']);
+// appiontment  hospital
+
+
 
     // hospitals
 Route::get('/updatehospital', function () {
     return view('admin.hospital');
 });
 
-Route::get('/',[Contact::class,'index']);
+Route::get('/index',[Contact::class,'index']);
  
 // submithospital
 Route::post('/hospitalupdate',[admincontroller::class,'submithospital']);

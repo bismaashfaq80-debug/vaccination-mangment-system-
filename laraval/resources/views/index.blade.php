@@ -7,7 +7,7 @@
     <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
 
       <div class="carousel-item active">
-        <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
+        <img src="/assets/img/hero-carousel/4-Picsart-AiImageEnhancer.jfif" alt="">
         <div class="container">
            <h2>Welcome to VMS</h2>
           <p>Providing professional, compassionate medical care with state-of-the-art facilities and a patient-first approach.</p>
@@ -16,7 +16,7 @@
       </div><!-- End Carousel Item -->
 
       <div class="carousel-item">
-        <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
+        <img src="/assets/img/hero-carousel/1 (1).jpg" alt="">
         <div class="container">
           <h2>Your Health, Our Priority</h2>
              <p>We are dedicated to improving lives through expert healthcare, modern technology, and a team that truly cares about your well-being.</p>
@@ -25,7 +25,7 @@
       </div><!-- End Carousel Item -->
 
       <div class="carousel-item">
-        <img src="assets/img/hero-carousel/hero-carousel-3.jpg" alt="">
+        <img src="/assets/img/hero-carousel/3 (1).jpg" alt="">
         <div class="container">
            <h2>Advanced Medicine, Compassionate Hearts</h2>
               <p>Combining modern medical expertise with genuine empathy to deliver world-class healthcare for you and your family.</p>
@@ -426,9 +426,6 @@
               <a class="nav-link" data-bs-toggle="tab" href="#tabs-tab-3">Hepatology</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tabs-tab-4">Pediatrics</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tabs-tab-5">Ophthalmologists</a>
             </li>
           </ul>
@@ -454,11 +451,13 @@
                   <h3>Neurology</h3>
                   <!-- <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p> -->
                     <p>Our neurology team provides expert evaluation and treatment for disorders of the brain, spinal cord, and nervous system. We focus on conditions like migraines, epilepsy, stroke, and movement disorders, ensuring precise diagnosis and compassionate support for every patient.</p>
+                </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
                 </div>
               </div>
             </div>
+            
             <div class="tab-pane" id="tabs-tab-3">
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
@@ -471,18 +470,7 @@
                 </div>
               </div>
             </div>
-            <div class="tab-pane" id="tabs-tab-4">
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Pediatrics</h3>
-                  <!-- <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p> -->
-                   <p>Our pediatric department delivers complete healthcare for children of all ages—from newborns to adolescents. We focus on preventive care, immunizations, nutrition, and developmental milestones to ensure every child grows strong and healthy.</p>
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-            </div>
+            
             <div class="tab-pane" id="tabs-tab-5">
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
@@ -614,34 +602,30 @@
 
   </section><!-- /Testimonials Section -->
 
-  <!-- Vaccinations Section -->
-   
-    <div
-      class="container-fluid">
+  <!-- Hospitals Section -->
+  <section id="hospitals"class="hospitals section">
+    <div class="container-fluid">
       <div class="container section-title" data-aos="fade-up">
-      <h2>hospitals</h2>
-    </div>
-   	<div class="row">
-   @if(isset($data) && count($data) > 0)
-    @foreach($data as $p)
-              <div class="col-12 col-md-3 col-lg-3 mb-5">
-            <a class="hospital-item"href="#">
-                <img src="update/{{$p->hospitalfile}}"class="img-fluidhospital-thumbnail">
+        <h2>HOSPITALS</h2>
+        <p>Explore our network of trusted hospitals providing quality healthcare services.</p>
+      </div>
+      <div class="row">
+        @if(isset($data) && count($data) > 0)
+          @foreach($data as $p)
+            <div class="col-12 col-md-3 col-lg-3 mb-5">
+              <a class="hospital-item" href="#">
+                <img src="/update/{{$p->hospitalfile}}" class="img-fluid hospital-thumbnail" alt="{{$p->hospitalname}}">
                 <h3 class="hospital-title">{{$p->hospitalname}}</h3>
                 <h3 class="hospital-title">{{$p->location}}</h3>
-            </a>
-         </div>
-            @endforeach
-          @else
-       <p class="text-center">hospital data.</p>
-      @endif
-        </div>
-    
+              </a>
+            </div>
+          @endforeach
+        @else
+          <p class="text-center">No hospital data available.</p>
+        @endif
+      </div>
     </div>
-    
-
- 
-<!-- / Vaccinations Section -->
+  </section><!-- /Hospitals Section -->
 
   <!-- Gallery Section -->
   <section id="gallery" class="gallery section">
@@ -689,14 +673,14 @@
           }
         </script>
         <div class="swiper-wrapper align-items-center">
-          <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-1.jpg"><img src="assets/img/gallery/gallery-1.jpg" class="img-fluid" alt=""></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="/assets/img/gallery/images1.jfif"><img src="/assets/img/gallery/images1.jfif" class="img-fluid" alt=""></a></div>
           <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-2.jpg"><img src="assets/img/gallery/gallery-2.jpg" class="img-fluid" alt=""></a></div>
           <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-3.jpg"><img src="assets/img/gallery/gallery-3.jpg" class="img-fluid" alt=""></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-4.jpg"><img src="assets/img/gallery/gallery-4.jpg" class="img-fluid" alt=""></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/img3.jfif"><img src="/assets/img/gallery/img3.jfif" class="img-fluid" alt=""></a></div>
           <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-5.jpg"><img src="assets/img/gallery/gallery-5.jpg" class="img-fluid" alt=""></a></div>
           <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-6.jpg"><img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt=""></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-7.jpg"><img src="assets/img/gallery/gallery-7.jpg" class="img-fluid" alt=""></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-8.jpg"><img src="assets/img/gallery/gallery-8.jpg" class="img-fluid" alt=""></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="/assets/img/gallery/img2.jfif"><img src="/assets/img/gallery/img2.jfif" class="img-fluid" alt=""></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="/assets/img/gallery/images.jfif"><img src="/assets/img/gallery/images.jfif" class="img-fluid" alt=""></a></div>
         </div>
         <div class="swiper-pagination"></div>
       </div>
@@ -720,13 +704,13 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt="">
-                <div class="social">
+                <img src="/assets/img/team/bisma ashfaq.jpg" class="img-fluid"  width="180" alt="">
+                <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
               <div class="member-info">
                 <h4> BISMA ASHFAQ</h4>
@@ -738,13 +722,13 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt="">
-                <div class="social">
+                <img src="/assets/img/team/tahira.jpeg"width="180" class="img-fluid" alt="">
+                <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
               <div class="member-info">
                 <h4>TAHIRA FATIMA</h4>
@@ -755,16 +739,16 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt="">
-                <div class="social">
+                <img src="/assets/img/team/taha ahmed.jpeg" class="img-fluid" width="180" alt="">
+                <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
               <div class="member-info">
-                <h4>TAHA</h4>
+                <h4>TAHA AHMED</h4>
                 <span>TEAM MEMBER</span>
               </div>
             </div>
@@ -772,13 +756,13 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt="">
-                <div class="social">
+                <img src="/assets/img/team/rehmat.jpeg"  width="180" class="img-fluid" alt="">
+                <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
               <div class="member-info">
                 <h4>REHMAT SAMAD</h4>
@@ -934,7 +918,7 @@
               </div>
 
               <div class="col-md-12 text-center">
-                <!-- <div class="loading">Loading</div> -->
+                <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
 

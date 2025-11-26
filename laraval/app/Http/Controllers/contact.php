@@ -21,7 +21,7 @@ class Contact extends Controller
 
    public function index(){
         $data=\App\Models\Hospital::get();
-        return view('index',compact('data'));
+        return view('/index',compact('data'));
        }
 
     

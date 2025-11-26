@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\hospital;
 use Directory;
 use Illuminate\Http\Request;
 
@@ -83,6 +84,11 @@ public function submithospital(Request $req)
  public function request(){
      $records = \App\Models\Contact::where('status','visible')->get();
      return view('hospital.request',compact('records'));
+ }
+ public function gethospitals()
+ {
+    $data = hospital::get();
+    return view('index',compact('data'));
  }
 
 }

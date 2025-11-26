@@ -18,6 +18,12 @@
 
             <br>
             <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
             <div>
                 <x-label for="email" value="{{ __('Email') }}" />
                 <x-input id="email" class="block mt-1 w-100" type="email" name="email" :value="old('email')" required autofocus autocomplete="username" />

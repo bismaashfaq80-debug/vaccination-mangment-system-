@@ -18,7 +18,7 @@ class appiontment extends Controller
     $table->hospital=$request->hospital;
     $table->vaccination=$request->vaccination;
     $table->message=$request->message;
-    $table->user_id = Auth::user()->id;
+    $table->user_id =Auth::user()->id;
     $table->save();
     return redirect()->back();
    }

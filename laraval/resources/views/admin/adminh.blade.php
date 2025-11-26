@@ -10,7 +10,7 @@
         <br>
               <div class="container">
             <h3 style="text-align: center;">
-              HOSPITAL RECORDS
+              HOSPITAL CONTACT
             </h3>
             <hr>
             <table class="table table-bordered">
@@ -21,9 +21,10 @@
                         <th scope="col" style="text-align: center;">Email</th>
                         <th scope="col" style="text-align: center;">Subject</th>
                         <th scope="col" style="text-align: center;">Message</th>
-                        <th scope="col" style="text-align: center;">Delete</th>
+                        <th scope="col" style="text-align: center;">rejected</th>
                         <th scope="col" style="text-align: center;">Update</th>
                         <th scope="col" style="text-align: center;">Trash</th>
+                        <th scope="col" style="text-align: center;">ACCEPTED</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -37,7 +38,7 @@
                         <td>
                             <form action="/delete/{{$item->id}}" method="post">
                                 @csrf
-                                <button type="submit" class="btn btn-danger">Delete records</button>
+                                <button type="submit" class="btn btn-danger">rejected</button>
                             </form>
                         </td>
 
@@ -53,9 +54,16 @@
                                 <button type="submit" class="btn btn-info">Trash records</button>
                             </form>
                         </td>
+                        <td>
+                            <form action="/trash/{{$item->id}}" method="post">
+                                @csrf
+                                <button type="submit" class="btn btn-success">ACCEPTED</button>
+                            </form>
+                        </td>
                     </tr>
                     @endforeach
-                </tbody>
+             </tbody>
+            </table> 
         </div>    
     </div>
 @endsection 
