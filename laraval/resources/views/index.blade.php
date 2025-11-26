@@ -9,7 +9,11 @@
       <div class="carousel-item active">
         <img src="/assets/img/hero-carousel/4-Picsart-AiImageEnhancer.jfif" alt="">
         <div class="container">
+<<<<<<< HEAD
            <h2>Welcome to VMS</h2>
+=======
+          <h2>Welcome to VMS</h2>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
           <p>Providing professional, compassionate medical care with state-of-the-art facilities and a patient-first approach.</p>
           <a href="#about" class="btn-get-started">Read More</a>
         </div>
@@ -18,8 +22,13 @@
       <div class="carousel-item">
         <img src="/assets/img/hero-carousel/1 (1).jpg" alt="">
         <div class="container">
+<<<<<<< HEAD
           <h2>Your Health, Our Priority</h2>
              <p>We are dedicated to improving lives through expert healthcare, modern technology, and a team that truly cares about your well-being.</p>
+=======
+              <h2>Your Health, Our Priority</h2>
+              <p>We are dedicated to improving lives through expert healthcare, modern technology, and a team that truly cares about your well-being.</p>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
           <a href="#about" class="btn-get-started">Read More</a>
         </div>
       </div><!-- End Carousel Item -->
@@ -27,7 +36,11 @@
       <div class="carousel-item">
         <img src="/assets/img/hero-carousel/3 (1).jpg" alt="">
         <div class="container">
+<<<<<<< HEAD
            <h2>Advanced Medicine, Compassionate Hearts</h2>
+=======
+              <h2>Advanced Medicine, Compassionate Hearts</h2>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
               <p>Combining modern medical expertise with genuine empathy to deliver world-class healthcare for you and your family.</p>
           <a href="#about" class="btn-get-started">Read More</a>
         </div>
@@ -57,7 +70,11 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item position-relative">
             <div class="icon"><i class="fas fa-heartbeat icon"></i></div>
+<<<<<<< HEAD
              <h4><a href="" class="stretched-link">Emergency</a></h4>
+=======
+            <h4><a href="" class="stretched-link">Emergency</a></h4>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
             <p>We care available 24/7 with experienced physicians and rapid response teams.</p>
           </div>
         </div><!-- End Service Item -->
@@ -65,7 +82,11 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
           <div class="service-item position-relative">
             <div class="icon"><i class="fas fa-pills icon"></i></div>
+<<<<<<< HEAD
           <h4><a href="" class="stretched-link">Personalized</a></h4>
+=======
+            <h4><a href="" class="stretched-link">Personalized</a></h4>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
             <p>treatment plans created by our multidisciplinary medical staff.</p>
           </div>
         </div><!-- End Service Item -->
@@ -81,7 +102,11 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
           <div class="service-item position-relative">
             <div class="icon"><i class="fas fa-dna icon"></i></div>
+<<<<<<< HEAD
            <h4><a href="" class="stretched-link">Care </a></h4>
+=======
+            <h4><a href="" class="stretched-link">Care </a></h4>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
             <p>Comprehensive postoperative follow-up care to support your recovery.</p>
           </div>
         </div><!-- End Service Item -->
@@ -99,7 +124,11 @@
       <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
         <div class="col-xl-10">
           <div class="text-center">
+<<<<<<< HEAD
               <h3>In an emergency? Need help now?</h3>
+=======
+            <h3>In an emergency? Need help now?</h3>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
             <a class="cta-btn" href="#appointment">Make an Appointment</a>
           </div>
         </div>
@@ -135,7 +164,12 @@
             <li><i class="bi bi-check2-all"></i> <span>We focus on continuous improvement through training and research.</span></li>
           </ul>
           <p>
+<<<<<<< HEAD
             Our team believes that great healthcare starts with trust and communication. From your first consultation to recovery, we are here to guide you every step of the way, ensuring you receive the care and attention you deserve.</p>
+=======
+            Our team believes that great healthcare starts with trust and communication. From your first consultation to recovery, we are here to guide you every step of the way, ensuring you receive the care and attention you deserve.
+          </p>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
         </div>
       </div>
 
@@ -207,10 +241,18 @@
         <div class="col-lg-5 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <h3>Laboratory / research</h3>
           <p>Our laboratory uses modern equipment and strict quality controls to deliver reliable diagnostic testing for accurate treatment planning.</p>
+<<<<<<< HEAD
           <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
             <i class="fa-solid fa-hand-holding-medical flex-shrink-0"></i>
             <div>
                <h4><a href="" class="stretched-link">Advanced Laboratory Testing</a></h4>
+=======
+
+          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
+            <i class="fa-solid fa-hand-holding-medical flex-shrink-0"></i>
+            <div>
+              <h4><a href="" class="stretched-link">Advanced Laboratory Testing</a></h4>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
               <p>We use modern equipment and strict quality controls to provide fast and accurate test results for better diagnosis and treatment.</p>
             </div>
           </div><!-- End Icon Box -->
@@ -228,6 +270,10 @@
             <div>
               <h4><a href="" class="stretched-link">Pharmacy and Medication Support</a></h4>
               <p>Our in-house pharmacy ensures that prescribed medicines are available promptly, with guidance from qualified pharmacists.</p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
             </div>
           </div><!-- End Icon Box -->
 
@@ -252,7 +298,11 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
+<<<<<<< HEAD
        <h2>Services</h2>
+=======
+      <h2>Services</h2>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
       <p>General medicine and preventive health checks to keep you well and catch issues early.</p>
     </div><!-- End Section Title -->
 
@@ -266,9 +316,16 @@
               <i class="fas fa-heartbeat"></i>
             </div>
             <a href="#" class="stretched-link">
+<<<<<<< HEAD
                <h3>Emergency Services  </h3>
             </a>
             <p>We offer 24/7 emergency support with trained doctors and nurses who respond quickly to critical medical situations with modern facilities and equipment.</p>
+=======
+              <h3>Emergency Services  </h3>
+            </a>
+            <p>We offer 24/7 emergency support with trained doctors and nurses who respond quickly to critical medical situations with modern facilities and equipment.</p>
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
           </div>
         </div><!-- End Service Item -->
 
@@ -278,9 +335,16 @@
               <i class="fas fa-pills"></i>
             </div>
             <a href="#" class="stretched-link">
+<<<<<<< HEAD
                <h3>Cardiology</h3>
             </a>
             <p>Our cardiology department specializes in the diagnosis and treatment of heart conditions using advanced imaging, testing, and interventional procedures.</p>
+=======
+              <h3>Cardiology</h3>
+            </a>
+            <p>Our cardiology department specializes in the diagnosis and treatment of heart conditions using advanced imaging, testing, and interventional procedures.</p>
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
           </div>
         </div><!-- End Service Item -->
 
@@ -293,6 +357,10 @@
               <h3>Orthopedics</h3>
             </a>
             <p>We provide expert care for bone, joint, and muscle conditions, offering both surgical and non-surgical treatments for faster recovery and mobility.</p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
           </div>
         </div><!-- End Service Item -->
 
@@ -305,6 +373,10 @@
               <h3>Pediatrics</h3>
             </a>
               <p>Our pediatric specialists focus on the growth, development, and health of infants, children, and adolescents in a friendly and caring environment.</p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
           </div>
         </div><!-- End Service Item -->
 
@@ -317,6 +389,10 @@
               <h3>Dental Care</h3>
             </a>
             <p>We offer preventive and restorative dental treatments, including cleanings, fillings, and cosmetic procedures, to help you maintain a healthy smile.</p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
           </div>
         </div><!-- End Service Item -->
 
@@ -326,9 +402,16 @@
               <i class="fas fa-notes-medical"></i>
             </div>
             <a href="#" class="stretched-link">
+<<<<<<< HEAD
                <h3>General Medical Care</h3>
             </a>
             <p>Our general practitioners provide comprehensive primary care, routine checkups, and early detection of health conditions to keep you and your family healthy.</p>
+=======
+              <h3>General Medical Care</h3>
+            </a>
+            <p>Our general practitioners provide comprehensive primary care, routine checkups, and early detection of health conditions to keep you and your family healthy.</p>
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
           </div>
         </div><!-- End Service Item -->
 
@@ -339,12 +422,15 @@
   </section><!-- /Services Section -->
   <section id="appointment" class="appointment section light-background">
 
-    <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>MAKE AN APPOINTMENT</h2>
+<<<<<<< HEAD
        <p>To make an appointment, select a doctor, pick a suitable date and time, and provide your contact details. You will receive a confirmation email or phone call.</p>
 
     </div><!-- End Section Title -->
+=======
+      <p>To make an appointment, select a doctor, pick a suitable date and time, and provide your contact details. You will receive a confirmation email or phone call.</p>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -409,6 +495,10 @@
     <div class="container section-title" data-aos="fade-up">
       <h2>Departments</h2>
       <p>We bring together leading specialists across a variety of medical fields to provide expert diagnosis and treatment. Each department is equipped with modern technology and a team dedicated to delivering personalized, patient-focused care.</p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -450,7 +540,12 @@
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Neurology</h3>
                   <!-- <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p> -->
+<<<<<<< HEAD
                     <p>Our neurology team provides expert evaluation and treatment for disorders of the brain, spinal cord, and nervous system. We focus on conditions like migraines, epilepsy, stroke, and movement disorders, ensuring precise diagnosis and compassionate support for every patient.</p>
+=======
+                  <p>Our neurology team provides expert evaluation and treatment for disorders of the brain, spinal cord, and nervous system. We focus on conditions like migraines, epilepsy, stroke, and movement disorders, ensuring precise diagnosis and compassionate support for every patient.</p>
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
@@ -463,20 +558,45 @@
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Hepatology</h3>
                   <!-- <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p> -->
+<<<<<<< HEAD
                  <p>The hepatology unit offers comprehensive care for liver, gallbladder, and pancreas diseases. Our specialists provide early detection, treatment, and long-term management of conditions such as hepatitis, fatty liver disease, and cirrhosis using the latest medical advancements.</p>
+=======
+                  <p>The hepatology unit offers comprehensive care for liver, gallbladder, and pancreas diseases. Our specialists provide early detection, treatment, and long-term management of conditions such as hepatitis, fatty liver disease, and cirrhosis using the latest medical advancements.</p>
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
                 </div>
               </div>
             </div>
+<<<<<<< HEAD
             
+=======
+            <div class="tab-pane" id="tabs-tab-4">
+              <div class="row">
+                <div class="col-lg-8 details order-2 order-lg-1">
+                  <h3>Pediatrics</h3>
+                  <!-- <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p> -->
+                  <p>Our pediatric department delivers complete healthcare for children of all ages—from newborns to adolescents. We focus on preventive care, immunizations, nutrition, and developmental milestones to ensure every child grows strong and healthy.</p>
+
+                </div>
+                <div class="col-lg-4 text-center order-1 order-lg-2">
+                  <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
+                </div>
+              </div>
+            </div>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
             <div class="tab-pane" id="tabs-tab-5">
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Ophthalmologists</h3>
                   <!-- <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p> -->
                   <p>Our ophthalmologists offer advanced eye care services, including vision exams, cataract surgery, and treatment for glaucoma and other eye disorders. We are committed to preserving and improving your vision with precision and care.</p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
                   <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
@@ -495,10 +615,13 @@
   <section id="testimonials" class="testimonials section">
 
     <!-- Section Title -->
-    <div class="container section-title" data-aos="fade-up">
+<div class="container section-title" data-aos="fade-up">
       <h2>Testimonials</h2>
       <p>We’re proud to have earned the trust of our patients through compassionate care, professionalism, and outstanding results. Here are a few words from those we’ve helped on their journey to better health.</p>
+<<<<<<< HEAD
     </div><!-- End Section Title -->
+=======
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -534,7 +657,12 @@
             <div class="testimonial-item">
               <p>
                 <i class=" bi bi-quote quote-icon-left"></i>
+<<<<<<< HEAD
                      <span>The doctors and nurses treated me with kindness and respect from the moment I arrived. They listened carefully to my concerns and made me feel completely at ease during my treatment. I’m thankful for their professionalism and warmth.</span>
+=======
+                 <span>The doctors and nurses treated me with kindness and respect from the moment I arrived. They listened carefully to my concerns and made me feel completely at ease during my treatment. I’m thankful for their professionalism and warmth.</span>
+                <i class="bi bi-quote quote-icon-right"></i>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
               </p>
               <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
               <h3>Saul Goodman</h3>
@@ -559,7 +687,11 @@
             <div class="testimonial-item">
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
+<<<<<<< HEAD
                  <span>I was nervous about my heart condition, but the cardiology team was amazing. They explained every procedure in detail and took great care throughout my stay. I felt confident knowing I was in the best hands possible.</span>
+=======
+                <span>I was nervous about my heart condition, but the cardiology team was amazing. They explained every procedure in detail and took great care throughout my stay. I felt confident knowing I was in the best hands possible.</span>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -572,7 +704,11 @@
             <div class="testimonial-item">
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
+<<<<<<< HEAD
                  <span>The hospital environment is spotless and comfortable. The staff follow excellent hygiene standards, and everything is well-organized. It really made a difference in helping me recover peacefully and stress-free.</span>
+=======
+                <span>The hospital environment is spotless and comfortable. The staff follow excellent hygiene standards, and everything is well-organized. It really made a difference in helping me recover peacefully and stress-free.</span>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
@@ -585,7 +721,11 @@
             <div class="testimonial-item">
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
+<<<<<<< HEAD
                  <span>My daughter received outstanding care from the pediatric team. They were gentle, patient, and made her feel relaxed during her check-up. It’s reassuring to know there’s a place where children are cared for with such dedication.</span>
+=======
+                <span>My daughter received outstanding care from the pediatric team. They were gentle, patient, and made her feel relaxed during her check-up. It’s reassuring to know there’s a place where children are cared for with such dedication.</span>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
@@ -602,6 +742,7 @@
 
   </section><!-- /Testimonials Section -->
 
+<<<<<<< HEAD
   <!-- Hospitals Section -->
   <section id="hospitals"class="hospitals section">
     <div class="container-fluid">
@@ -623,6 +764,93 @@
         @else
           <p class="text-center">No hospital data available.</p>
         @endif
+=======
+  <!-- Doctors Section -->
+  <section id="doctors" class="doctors section light-background">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Doctors</h2>
+    <p> General Practitioner. Comprehensive primary care for adults and families.</p>
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+      <div class="row gy-4">
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href=""><i class="bi bi-twitter-x"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Walter White</h4>
+              <span>Chief Medical Officer</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href=""><i class="bi bi-twitter-x"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Sarah Jhonson</h4>
+              <span>Anesthesiologist</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href=""><i class="bi bi-twitter-x"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>William Anderson</h4>
+              <span>Cardiology</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href=""><i class="bi bi-twitter-x"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Amanda Jepson</h4>
+              <span>Neurosurgeon</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
       </div>
     </div>
   </section><!-- /Hospitals Section -->
@@ -632,7 +860,11 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
+<<<<<<< HEAD
      <h2>Gallery</h2>
+=======
+      <h2>Gallery</h2>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
       <p>Operating theatre with up-to-date surgical equipment.</p>
 <p>Emergency department team in action during a simulated drill.</p>
 <p>Patient consultation room designed for privacy and comfort.</p>
@@ -692,15 +924,25 @@
   
   <section id="doctors" class="doctors section light-background">
 
+<<<<<<< HEAD
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>TEAM MEMBERS</h2>
       </div><!-- End Section Title -->
+=======
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Pricing</h2>
+      <p>Choose the plan that best fits your medical care needs. We offer flexible options designed to provide affordable, high-quality healthcare for everyone.</p>
+
+    </div><!-- End Section Title -->
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
 
       <div class="container">
 
         <div class="row gy-4">
 
+<<<<<<< HEAD
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="team-member">
               <div class="member-img">
@@ -716,9 +958,25 @@
                 <h4> BISMA ASHFAQ</h4>
                 <span>LEADER</span>
               </div>
+=======
+        <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="pricing-item">
+            <h3>Free</h3>
+            <h4><sup>$</sup>0<span> / month</span></h4>
+            <ul>
+            <li>Basic health consultations</li>
+          <li>Access to general health tips and resources</li>
+          <li>Free appointment scheduling online</li>
+          <li class="na">No specialist consultations</li>
+          <li class="na">No lab or diagnostic tests included</li>
+            </ul>
+            <div class="btn-wrap">
+              <a href="#" class="btn-buy">Buy Now</a>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
             </div>
           </div><!-- End Team Member -->
 
+<<<<<<< HEAD
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member">
               <div class="member-img">
@@ -768,6 +1026,56 @@
                 <h4>REHMAT SAMAD</h4>
                 <span>TEAM MEMBER</span>
               </div>
+=======
+        <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="pricing-item featured">
+            <h3>Basic</h3>
+            <h4><sup>$</sup>49<span> / month</span></h4>
+            <ul>
+            <li>General checkups and routine consultations</li>
+          <li>Access to outpatient services</li>
+          <li>Priority appointment scheduling</li>
+          <li>Basic diagnostic tests included</li>
+          <li class="na">No advanced imaging or specialist care</li>
+            </ul>
+            <div class="btn-wrap">
+              <a href="#" class="btn-buy">Buy Now</a>
+            </div>
+          </div>
+        </div><!-- End Pricing Item -->
+
+        <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="pricing-item">
+            <h3>Standard</h3>
+            <h4><sup>$</sup>99<span> / month</span></h4>
+            <ul>
+              <li>Comprehensive medical consultations</li>
+          <li>Specialist referrals and follow-up care</li>
+          <li>Routine lab and imaging tests</li>
+          <li>24/7 online support and advice</li>
+          <li class="na">Excludes major surgeries</li>
+            </ul>
+            <div class="btn-wrap">
+              <a href="#" class="btn-buy">Buy Now</a>
+            </div>
+          </div>
+        </div><!-- End Pricing Item -->
+
+        <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="400">
+          <div class="pricing-item">
+            <span class="advanced">Premium</span>
+            <h3>Ultimate</h3>
+            <h4><sup>$</sup>199<span> / month</span></h4>
+            <ul>
+          <li>Full access to all specialist consultations</li>
+          <li>Comprehensive health screenings and imaging</li>
+          <li>Personalized treatment and wellness plans</li>
+          <li>Priority service and private room options</li>
+          <li>Free annual executive health checkup</li>
+            </ul>
+            <div class="btn-wrap">
+              <a href="#" class="btn-buy">Buy Now</a>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
             </div>
           </div><!-- End Team Member -->
 
@@ -776,7 +1084,13 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
+<<<<<<< HEAD
      
+=======
+      <h2>Frequently Asked Questions</h2>
+      <p>Find quick answers to some of the most common questions about our hospital, services, and patient care. If you need more information, please don’t hesitate to contact us.</p>
+
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -799,9 +1113,15 @@
             </div><!-- End Faq item-->
 
             <div class="faq-item">
+<<<<<<< HEAD
               <h3>why we need covid 19 vaccine?</h3>
               <div class="faq-content">
                 <p> COVID-19 can lead to serious, long-term health complications, including organ damage, "long COVID," or multisystem inflammatory syndrome (MIS-C). Vaccination significantly reduces the risk of developing these conditions.</p>
+=======
+              <h3>Can I make an appointment online?</h3>
+              <div class="faq-content">
+                <p>Absolutely. You can easily schedule an appointment through our online booking form. Simply select your doctor, preferred date, and time, and we’ll confirm your appointment via email or phone.</p>
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
               </div>
               <i class="faq-toggle bi bi-chevron-right"></i>
             </div><!-- End Faq item-->
@@ -854,10 +1174,16 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
+<<<<<<< HEAD
        <h2>Contact</h2>
        <p>We’re here to help you with any questions about our services, appointments, or facilities. Please reach out to us — our support team will respond as soon as possible.</p>
     </div>
       <!-- End Section Title -->
+=======
+      <h2>Contact</h2>
+      <p>We’re here to help you with any questions about our services, appointments, or facilities. Please reach out to us — our support team will respond as soon as possible.</p>
+    </div><!-- End Section Title -->
+>>>>>>> 349dabf8d0bc7fa08383d4c15d494962d89c20c7
 
     <div class="mb-5" data-aos="fade-up" data-aos-delay="200">
       <iframe style="border:0; width: 100%; height: 370px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
