@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\hospital;
+use App\Models\hospitalupload;
 use Directory;
 use Illuminate\Http\Request;
 
@@ -89,6 +90,14 @@ public function submithospital(Request $req)
  {
     $data = hospital::get();
     return view('index',compact('data'));
+ }
+ public function addhospital(Request $req)
+ {
+    $hname = $req->hospitalname;
+    $table = new hospitalupload();
+    $table->hospitalname = $hname;
+    $table->save();
+    return redirect()->back(); 
  }
 
 }

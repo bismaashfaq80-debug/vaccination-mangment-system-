@@ -82,6 +82,20 @@
             </li>
             <li class="sidebar-item">
               <a class="sidebar-link justify-content-between"  
+                href="/vaccineup" aria-expanded="false">
+                <div class="d-flex align-items-center gap-3">
+                  <span class="d-flex">
+                    <i class="ti ti-shopping-cart"></i>
+                  </span>
+                  <span class="hide-menu">Add vaccine</span>
+                </div>
+                
+              </a>
+            </li>
+
+
+            <li class="sidebar-item">
+              <a class="sidebar-link justify-content-between"  
                 href="#" aria-expanded="false">
                 <div class="d-flex align-items-center gap-3">
                   <span class="d-flex">

@@ -7,7 +7,7 @@ use App\Http\Controllers\contact;
 use App\Http\Middleware\AdminMiddleware;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\HospitalController;
 // Route::get('/', function () {
 //     return view('index');
 // });
@@ -114,3 +114,12 @@ Route::middleware([AdminMiddleware::class])->group(function(){
  });
   Route::get('/request', [admincontroller::class, 'request']);
 
+  Route::get('/hospitalup', function () {
+        return view('admin.hospitalupload');
+    });
+
+Route::get('/vaccineup', [HospitalController::class, 'gethospitals']);
+
+Route::post('/addhospital',[admincontroller::class,('addhospital')]);
+
+Route::post('/addvaccine',[HospitalController::class,('addvaccines')]);

@@ -101,6 +101,17 @@
                 </div>
               </a>
             </li>
+                        <li class="sidebar-item">
+              <a class="sidebar-link justify-content-between"
+                href="/hospitalup" aria-expanded="false">
+                <div class="d-flex align-items-center gap-3">
+                  <span class="d-flex">
+                    <i class="ti ti-user"></i>
+                  </span>
+                  <span class="hide-menu">hospital upload vaccine</span>
+                </div>
+              </a>
+            </li>
             <li class="sidebar-item">
               <a class="sidebar-link justify-content-between has-arrow" href="/appiontmenthospital" aria-expanded="false">
                 <div class="d-flex align-items-center gap-3">
