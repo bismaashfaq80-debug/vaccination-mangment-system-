@@ -108,7 +108,7 @@ return redirect('/');
 //  hospital to appointment
 Route::middleware([AdminMiddleware::class])->group(function(){
     Route::get('/host', function () {
-        return view('hospital.index');
+        return view('hospital.request');
 
     });
  });

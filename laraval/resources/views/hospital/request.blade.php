@@ -1,5 +1,5 @@
 @extends('hospital.hlayout')
-@section('host')
+@section('hospital')
     <div class="body-wrapper-inner">
         <br>
         <br>
@@ -8,9 +8,9 @@
         <br>
         <br>
         <br>
-              <div class="container">
+        <div class="container">
             <h3 style="text-align: center;">
-              FETCH RECORDS FROM appointment FORM
+                FETCH RECORDS FROM appointment FORM
             </h3>
             <hr>
             <table class="table table-bordered">
@@ -56,6 +56,7 @@
                     </tr>
                     @endforeach
                 </tbody>
-        </div>    
+            </table>    
+        </div>
     </div>
-@endsection 
+    @endsection

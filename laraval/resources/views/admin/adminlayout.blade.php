@@ -116,7 +116,7 @@
               <a class="sidebar-link justify-content-between has-arrow" href="/appiontmenthospital" aria-expanded="false">
                 <div class="d-flex align-items-center gap-3">
                   <span class="d-flex">
-                    <i class="ti ti-layout-grid"></i>
+                    <i class="ti ti-circle"></i>
                   </span>
                   <span class="hide-menu"> appiontmenthospital </span>
                 </div>
